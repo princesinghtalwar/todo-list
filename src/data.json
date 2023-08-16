@@ -5,7 +5,7 @@
  }, {
    "id": 2,
    "task": "Do laundry",
-   "complete": true
+   "complete": false
  }, {
    "id": 3,
    "task": "Vacuum floor",
@@ -13,7 +13,7 @@
  }, {
    "id": 4,
    "task": "Feed cat",
-   "complete": true
+   "complete": false
  }, {
    "id": 5,
    "task": "Change light bulbs",
@@ -21,11 +21,11 @@
  }, {
    "id": 6,
    "task": "Go to Store",
-   "complete": true
+   "complete": false
  }, {
    "id": 7,
    "task": "Fill gas tank",
-   "complete": true
+   "complete": false
  }, {
    "id": 8,
    "task": "Change linens",
@@ -33,7 +33,7 @@
  }, {
    "id": 9,
    "task": "Rake leaves",
-   "complete": true
+   "complete": false
  }, {
    "id": 10,
    "task": "Bake Cookies",
@@ -41,11 +41,11 @@
  }, {
    "id": 11,
    "task": "Take nap",
-   "complete": true
+   "complete": false
  }, {
    "id": 12,
    "task": "Read book",
-   "complete": true
+   "complete": false
  }, {
    "id": 13,
    "task": "Exercise",
@@ -65,7 +65,7 @@
  }, {
    "id": 17,
    "task": "Feed cat",
-   "complete": true
+   "complete": false
  }, {
    "id": 18,
    "task": "Change light bulbs",
