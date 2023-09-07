@@ -9,6 +9,7 @@ import InputGroup from "react-bootstrap/InputGroup";
 import FormControl from "react-bootstrap/FormControl";
 import ListGroup from "react-bootstrap/ListGroup";
 import Navbar from './Navbar';
+import About from './About';
 
 class App extends Component {
 	constructor(props) {
@@ -80,6 +81,7 @@ class App extends Component {
 		return (
 			<>
 			 <Navbar title="Prince Singh" />
+			 <About/>
 			<Container>
 				<Row
 					style={{
